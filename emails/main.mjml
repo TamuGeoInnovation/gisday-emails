@@ -87,7 +87,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#1f2e78">
+    <!-- <mj-section background-color="#1f2e78">
       <mj-column width="100%">
         <mj-image
           src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544156968/Email/Images/AnnouncementOffset/header-bottom.png"
@@ -97,7 +97,7 @@
           href="https://google.com"
         />
       </mj-column>
-    </mj-section>
+    </mj-section> -->
 
     <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
       <mj-section
@@ -107,43 +107,44 @@
       >
         <mj-column width="100%">
           <mj-text color="#212b35" font-weight="bold" font-size="20px">
-            Croft's in Austin is opening December 20th
-          </mj-text>
-          <mj-text color="#637381" font-size="16px"> Hi Jane, </mj-text>
-          <mj-text color="#637381" font-size="16px">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia a
-            assumenda nulla in quisquam optio quibusdam fugiat perspiciatis
-            nobis, ad tempora culpa porro labore. Repudiandae accusamus
-            obcaecati voluptatibus accusantium perspiciatis.
+            TxGIS Day is Coming to AggieLand
           </mj-text>
           <mj-text color="#637381" font-size="16px">
-            Tempora culpa porro labore. Repudiandae accusamus obcaecati
-            voluptatibus accusantium perspiciatis:
+            Come celebrate all things Geographic Information Science &amp; Technology at 
+            <a class="text-link" href="https://google.com">TxGIS Day </a>
+            - the largest GIS Day event in the world, right here in the MSC on the 
+            Texas A&amp;M Campus.
+
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            All events are free and open to the public.
+
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            This three day event features FREE LUNCH every day, SOCIALS every night, industry speakers and guests,
+            data collection and student presentatiion competitions and more:
           </mj-text>
           <mj-text color="#637381" font-size="16px">
             <ul>
               <li style="padding-bottom: 20px">
-                <strong>Lorem ipsum dolor:</strong> Sit amet consectetur
-                adipisicing elit.
+                <strong>GIS Career Fair &amp; Employer Speed Dating:</strong> Bring your resume and 
+                your most impressive work to get yourself a great internship or full time position.
               </li>
               <li style="padding-bottom: 20px">
-                <strong>Quia a assumenda nulla:</strong> Repudiandae accusamus
-                obcaecati voluptatibus accusantium perspiciatis.
+                <strong>Hands-On Workshops:</strong> Learn how to build your own version of 
+                AggieMap, use R for geospatial analysis, and more.
               </li>
               <li>
-                <strong>Tempora culpa porro labore:</strong> In quisquam optio
-                quibusdam fugiat perspiciatis nobis.
+                <strong>Zero To Hero - Getting Started With GIS:</strong> Never even heard of GIS before?
+                This session is for you. Come learn how to get started making maps with data you care about. 
+                No experience required.
               </li>
             </ul>
           </mj-text>
           <mj-text color="#637381" font-size="16px" padding-bottom="30px">
-            Lorem ipsum dolor
-            <a class="text-link" href="https://google.com"
-              >sit amet consectetur</a
-            >
-            adipisicing elit. Earum eaque sunt nulla in, id eveniet quae unde ad
-            ipsam ut, harum autem porro reiciendis minus libero illo. Vero,
-            fugiat reprehenderit.
+            Whether you are a GIS expert professional, a graduate student, or a freshman
+            who has always liked maps, TxGIS Day will provide a mix of networking, hands-on, 
+            and inspiring sessions to make you want to learn more; not to mention the FREE FOOD.
           </mj-text>
           <mj-button
             background-color="#5e6ebf"
@@ -151,23 +152,19 @@
             color="#ffffff"
             font-size="17px"
             font-weight="bold"
-            href="https://google.com"
+            href="https://txgisday.org/sessions"
             width="300px"
           >
-            RSVP Now
+            Learn About Sessions Now
           </mj-button>
 
           <mj-text color="#637381" font-size="16px" padding-top="30px">
-            Lorem ipsum dolor
-            <a class="text-link" href="https://google.com"
-              >sit amet consectetur</a
-            >
-            adipisicing elit. Earum eaque sunt nulla in, id eveniet quae unde ad
-            ipsam ut, harum autem porro reiciendis minus libero illo. Vero,
-            fugiat reprehenderit.
+            Interested in competing for prizes in the student presentation competitions
+            or the data collection competition? Want to win money, prizes and fame for walking
+            around and taking pictures of things on campus?
           </mj-text>
           <mj-text color="#637381" font-size="16px" padding-bottom="0">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            <a class="text-link" href="https://google.com">View the competition rules to get started</a>.
           </mj-text>
         </mj-column>
       </mj-section>
@@ -180,14 +177,14 @@
         <mj-column width="50%">
           <mj-image
             align="center"
-            src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544153577/Email/Images/AnnouncementOffset/Image_1.png"
+            src="https://parking.tamu.edu/WebFS/Transport/Mobility/mobility-campus.jpg"
             alt=""
           />
         </mj-column>
         <mj-column width="50%">
           <mj-image
             align="center"
-            src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544153578/Email/Images/AnnouncementOffset/Image_2.png"
+            src="https://www.tamu.edu/assets/images/AggieMap2.jpg"
             alt=""
           />
         </mj-column>
@@ -210,10 +207,10 @@
             font-size="20px"
             padding-bottom="0"
           >
-            Come see us!
+            Come get your geographic on!
           </mj-text>
           <mj-text color="#637381" font-size="16px">
-            We're looking forward to meeting you.
+            Find out why spatial is special here in AggieLand.
           </mj-text>
         </mj-column>
       </mj-section>
@@ -230,12 +227,12 @@
             font-weight="bold"
             padding-bottom="0"
           >
-            address
+            Event location
           </mj-text>
           <mj-text color="#637381" font-size="14px" padding-top="0">
-            Austin Convention Center
+            TAMU Memorial Student Center
             <br />
-            123 Main Street, 78701
+            Room(s) 2300 a/b/c
           </mj-text>
         </mj-column>
         <mj-column width="50%">
@@ -246,27 +243,29 @@
             font-weight="bold"
             padding-bottom="0"
           >
-            Hours of Operation
+            Event Hours
           </mj-text>
           <mj-text color="#637381" font-size="14px" padding-top="0">
-            Monday, December 20th: 8:00AM - 5:00PM
+            Monday, November 13th: 9:00AM - 8:00PM
             <br />
-            Tuesday, December 21st: 8:00AM - 5:00PM
+            Tuesday, November 14th: 9:00AM - 9:00PM
+            <br />
+            Wednesday, November 15th: 9:00AM - 9:00PM
           </mj-text>
+          <mj-button
+            background-color="#5e6ebf"
+            align="center"
+            color="#ffffff"
+            font-size="17px"
+            font-weight="bold"
+            href="https://txgisday.org"
+            width="300px"
+          >
+            Learn More about TxGIS Day
+          </mj-button>
         </mj-column>
       </mj-section>
-      <mj-section
-        background-color="#ffffff"
-        padding-left="15px"
-        padding-right="15px"
-      >
-        <mj-column width="100%">
-          <mj-image
-            src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544153579/Email/Images/AnnouncementOffset/map.jpg"
-            alt=""
-          />
-        </mj-column>
-      </mj-section>
+      
     </mj-wrapper>
 
     <mj-wrapper full-width="full-width">
@@ -281,25 +280,20 @@
           >
             <mj-social-element
               name="facebook"
-              href="https://mjml.io/"
+              href="https://www.facebook.com/TAMUGIS/"
               background-color="#A1A0A0"
             >
             </mj-social-element>
-            <mj-social-element
-              name="google"
-              href="https://mjml.io/"
-              background-color="#A1A0A0"
-            >
             </mj-social-element>
             <mj-social-element
               name="twitter"
-              href="https://mjml.io/"
+              href="https://twitter.com/tamuGIS"
               background-color="#A1A0A0"
             >
             </mj-social-element>
             <mj-social-element
               name="linkedin"
-              href="https://mjml.io/"
+              href="https://www.linkedin.com/groups/8124955/"
               background-color="#A1A0A0"
             >
             </mj-social-element>
@@ -307,29 +301,10 @@
           <mj-text
             color="#445566"
             font-size="11px"
-            font-weight="bold"
-            align="center"
-          >
-            View this email in your browser
-          </mj-text>
-          <mj-text
-            color="#445566"
-            font-size="11px"
             align="center"
             line-height="16px"
           >
-            You are receiving this email advertisement because you registered
-            with Croft's Accountants. (123 Main Street, Austin, TX 78701) and
-            agreed to receive emails from us regarding new features, events and
-            special offers.
-          </mj-text>
-          <mj-text
-            color="#445566"
-            font-size="11px"
-            align="center"
-            line-height="16px"
-          >
-            &copy; Croft's Accountants Inc., All Rights Reserved.
+            &copy; Texas A&amp;M University, All Rights Reserved.
           </mj-text>
         </mj-column>
       </mj-section>
@@ -343,10 +318,10 @@
               line-height="16px"
               font-weight="bold"
             >
-              <a class="footer-link" href="https://www.google.com">Privacy</a
+              <a class="footer-link" href="https://www.tamu.edu/statements/privacy.html">Privacy</a
               >&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<a
                 class="footer-link"
-                href="https://www.google.com"
+                href="https://gateway.tamu.edu/help/#:~:text=Click%20Email%20Settings.,Texas%20A%26M%20Today%20email%20lists."
                 >Unsubscribe</a
               >
             </mj-text>
