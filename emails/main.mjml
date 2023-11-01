@@ -59,7 +59,7 @@
           letter-spacing="1px"
           padding-top="30px"
         >
-          November 13-16, 2023
+          November 13-15, 2023
         </mj-text>
 
         <!-- <mj-text
@@ -122,7 +122,7 @@
           </mj-text>
           <mj-text color="#637381" font-size="16px">
             This three day event features FREE LUNCH every day, SOCIALS every night, industry speakers and guests,
-            data collection and student presentatiion competitions and more:
+            data collection and student presentation competitions and more:
           </mj-text>
           <mj-text color="#637381" font-size="16px">
             <ul>
@@ -155,7 +155,7 @@
             href="https://txgisday.org/sessions"
             width="300px"
           >
-            Learn About Sessions Now
+            Explore TxGIS Day Sessions
           </mj-button>
 
           <mj-text color="#637381" font-size="16px" padding-top="30px">
@@ -246,12 +246,16 @@
             Event Hours
           </mj-text>
           <mj-text color="#637381" font-size="14px" padding-top="0">
-            Monday, November 13th: 9:00AM - 8:00PM
+            Monday, Nov 13th: 9AM - 8PM
             <br />
-            Tuesday, November 14th: 9:00AM - 9:00PM
+            Tuesday, Nov 14th: 9AM - 9PM
             <br />
-            Wednesday, November 15th: 9:00AM - 9:00PM
+            Wednesday, Nov 15th: 9AM - 9PM
           </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding="0 15px 0 15px">
+        <mj-column width="100%">
           <mj-button
             background-color="#5e6ebf"
             align="center"
@@ -263,6 +267,12 @@
           >
             Learn More about TxGIS Day
           </mj-button>
+          <mj-text color="#637381" font-size="16px" padding-top="30px">
+            For more information visit 
+            <a class="text-link" href="https://txgisday.org">https://txgisday.org</a> 
+            or email 
+            <a class="text-link" href="mailto:gis@tamu.edu">gis@tamu.edu</a>
+          </mj-text>
         </mj-column>
       </mj-section>
       
